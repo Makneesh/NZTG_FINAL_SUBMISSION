@@ -71,7 +71,7 @@ describe('App', function(){
             assert.equal(parseInt(view_count_b), parseInt(view_count_a));
           });
 
-      it('Testing if a search on Youtube results in the correct search url', async() => {
+      it('Testing if a search on Youtube results in the correct search url.', async() => {
 //Select a search query at random
             var selected_text = serach_text_array[Math.floor(Math.random() * serach_text_array.length)]
 //Create a Chrome window
