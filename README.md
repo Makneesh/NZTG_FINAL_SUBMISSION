@@ -7,3 +7,11 @@ To use this repository simply clone it to a folder of choice, change your comman
 There 3 test cases within this test, testing out unique scenarios and different features of the Youtube.com website. Feel free to add, remove or change the provided links and search queries within the script.
 
 ---
+
+As mentioned earlier my script tests 3 different cases...
+<br/>
+Test 1: Tests if the user is correctly redirected to the Trending page when said button is clicked.
+<br/>
+Test 2: Tests if Youtube correctly reflects the view count of a video from the main page.
+<br/>
+Test 3: Testing if a search on Youtube results in the correct search url.
