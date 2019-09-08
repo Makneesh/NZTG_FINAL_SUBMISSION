@@ -1,0 +1,16 @@
+{
+  "name": "NZTG_FINAL",
+  "version": "1.0.0",
+  "description": "Final submission for the NZTRADEGROUP_QA_Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Manish Patel",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "puppeteer": "^1.19.0"
+  }
+}
