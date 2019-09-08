@@ -1,4 +1,4 @@
-# NZTG QA FINAL SUBMISSION
+# **NZTG QA FINAL SUBMISSION**
 Firstly before we begin please ensure that mocha, chai and puppeteer are installed as the node modules folder was omitted.<br/>
 An example for installing these modules would be to type `npm install mocha` into the command line. <br/>
 <br/>
